@@ -1,0 +1,11 @@
+<html>: VIVA el futbol
+<head>:EL TROFEO MAS PRECIADO
+<body>: MESSI ES EL MEJOR
+  <h1> : la copa del mundo </h1>
+   
+
+<img src="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/styles/imagen_noticia/public/field/image/ABC-copa-del-mundo-2026.jpg?itok=qV4S4BIR"/>
+  </div>
+  body{
+  background-color:#ffc000
+}
